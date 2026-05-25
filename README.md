@@ -1,3 +1,4 @@
+
 # 🩺 AI Diabetes Prediction System
 
 An advanced Machine Learning based healthcare application that predicts diabetes risk using patient health parameters.
@@ -70,3 +71,6 @@ ai-diabetes-prediction/
 ├── scaler.pkl
 ├── requirements.txt
 └── README.md
+
+# ai-diabetes-prediction
+
